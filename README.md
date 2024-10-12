@@ -1,5 +1,21 @@
 # LITA-WORKS
 ## project title : Product Sales Analysis
+-----------------------------------------
+
+[project overview](project_overview)
+
+ [Data sources](data_sources)
+
+ [Tools Used](tools_used)
+
+ [Data Cleaning and preparation](data_cleaning_and_preparation)
+
+ [Exploratory Data Analysis](exploratory_data)
+
+  [Data Analysis](data_analysis)
+
+[ Data Visualization](data_visualization)
+
 
 ### project overview
 This project  aims to provide insights that drive strategic decicision making through comprehensive reports and dashboards. It includes columns such as 
@@ -68,4 +84,10 @@ The primary source of this data is Salsdata.xslx. the data can also be downloade
 
     ### Data Visualization
 
-    
+    ![image](https://github.com/user-attachments/assets/589ecbd3-5322-4b91-a4f4-3644dcc44488)
+    ![image](https://github.com/user-attachments/assets/43ca5648-e004-4dbf-bd5a-2ba7706a5efc)
+   ![image](https://github.com/user-attachments/assets/32d83edc-a239-4fc3-a276-0a06bb7a2455)
+
+
+
+

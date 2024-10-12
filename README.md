@@ -2,19 +2,19 @@
 ## project title : Product Sales Analysis
 -----------------------------------------
 
-[project overview](project_overview)
+[project overview](#project-overview)
 
- [Data sources](data_sources)
+ [Data sources](#data-sources)
 
- [Tools Used](tools_used)
+ [Tools Used](#tools-used)
 
- [Data Cleaning and preparation](data_cleaning_and_preparation)
+ [Data Cleaning and preparation](#data-cleaning-and-preparation)
 
- [Exploratory Data Analysis](exploratory_data)
+ [Exploratory Data Analysis](#exploratory-data-analysis)
 
-  [Data Analysis](data_analysis)
+  [Data Analysis](#data-analysis)
 
-[ Data Visualization](data_visualization)
+[ Data Visualization](#data-visualization)
 
 
 ### project overview
